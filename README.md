@@ -1,31 +1,28 @@
-Ex03 Time Table
-Date: 26-11-2024
-AIM
+# Ex03 Time Table
+# Date:26-11-2024
+# AIM
 To write a html webpage page to display your slot timetable.
 
-ALGORITHM
-STEP 1
+# ALGORITHM
+## STEP 1
 Create a Django-admin Interface.
 
-STEP 2
+## STEP 2
 Create a static folder and inert HTML code.
 
-STEP 3
-Create a simple table using
+## STEP 3
+Create a simple table using <table> tag in html.
 
-tag in html.
-STEP 4
-Add header row using
+## STEP 4
+Add header row using <th> tag.
 
-tag.
-STEP 5
-Add your timetable using
+## STEP 5
+Add your timetable using <td> tag.
 
-tag.
-STEP 6
+## STEP 6
 Execute the program using runserver command.
 
-PROGRAM
+# PROGRAM
 ```
 <body>
     <center>
@@ -150,7 +147,7 @@ PROGRAM
     </center>
     </body>
 ```
-OUTPUT
+# OUTPUT
 ![alt text](<Screenshot (14).png>)
-RESULT
+# RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
